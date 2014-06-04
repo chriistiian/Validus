@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package alcaldia;
-
+// PRUEBA DE CLAREEEEE
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
